@@ -1,0 +1,4 @@
+pygame
+scipy
+pandas
+neat-python
